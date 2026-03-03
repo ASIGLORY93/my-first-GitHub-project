@@ -1,3 +1,4 @@
 Hello git
 i am new here and just exploring
 I have 7 days to master git and github
+learning git is fun
